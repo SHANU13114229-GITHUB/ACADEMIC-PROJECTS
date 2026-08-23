@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/0633a049-f634-4e53-aae7-bab8f4960bc7
+View app : https://sheat-student-diary.ai.studio
 
 ## Run Locally
 
