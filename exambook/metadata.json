@@ -1,0 +1,6 @@
+{
+  "name": "ExamBook",
+  "description": "Exam preparation app providing randomized practice questions from official curriculum databases, progress tracking analytics across all courses, and standardized performance scale metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
