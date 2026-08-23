@@ -1,0 +1,6 @@
+{
+  "name": "ShopEase",
+  "description": "A responsive full-stack e-commerce platform featuring a product catalog, user registration and login, a shopping cart, order placement, and an order management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
