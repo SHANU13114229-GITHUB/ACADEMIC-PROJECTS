@@ -1,0 +1,6 @@
+{
+  "name": "SHEAT Student Diary",
+  "description": "Student Cloud Diary and Academic Management App with attendance tracking, exam hall ticket, timetable, results, digital ID card, notices, and personal diary notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
