@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/0afb621a-b991-4f0a-9256-e7818e6ff2fd
+View App : https://shopease-2s.ai.studio
 
 ## Run Locally
 
